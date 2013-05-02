@@ -1,0 +1,4 @@
+CopyPaste
+=========
+
+Codi per compartir

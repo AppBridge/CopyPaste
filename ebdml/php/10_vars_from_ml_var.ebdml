@@ -1,0 +1,2 @@
+<eBD:VAR NAME="bb" DEFAULT="3"/>
+<eBD:PHP>echo $bb;</eBD:PHP>

@@ -1,0 +1,3 @@
+<eBD:SET VAR="cc" VALUE="3"/>
+<eBD:PHP>$cc++;</eBD:PHP>
+<eBD:OUT VALUE="$cc"/>

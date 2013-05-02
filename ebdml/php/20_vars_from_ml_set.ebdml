@@ -1,0 +1,2 @@
+<eBD:SET VAR="cc" VALUE="44"/>
+<eBD:PHP>echo $cc;<eBD:PHP/>
